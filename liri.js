@@ -1,15 +1,6 @@
 
-var axios = require("axios");
-
+// Manages all the functions
 var appFuncObj = require("./appFunction");
-
-require("dotenv").config();
-
-var keys = require("./keys");
-
-var Spotify = require("node-spotify-api");
-
-var spotify = new Spotify(keys.spotify);
 
 
 // * `concert-this`
@@ -42,7 +33,7 @@ if(appFunc === "spotify-this-song"){
 else if (appFunc === "concert-this"){
     appFuncObj.concertThis(content);
 }
-else if (appFunc === ""){
+else if (appFunc === "movie-this"){
     appFuncObj.movieThis(content);
 }
 else if (appFunc === "do-what-it-says"){
