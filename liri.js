@@ -31,7 +31,12 @@ var content = process.argv[3];
 content = ((content !== null) ? content.toLowerCase() : content);
 
 
-spotify
+if(appFunc === "spotify-this-song"){
+    spotifyCall(query)
+}
+
+function spotifyCall(query){
+    spotify
     .search({type: "track", query: "all the small things"})
     .then(function(response){
         console.log(response);
@@ -39,8 +44,7 @@ spotify
     .catch(function(err){
         console.log(err);
     });
-
-
+}
 
 
 
