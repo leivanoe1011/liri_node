@@ -21,7 +21,10 @@ var spotify = new Spotify(keys.spotify);
 var appFuncObj = {
 
     spotifyCall: function(queryEntry){
-        spotify.search({ type: 'track', query: 'All the Small Things' }, function(err, data) {
+
+        // Pass the entry we received from the user
+        var song = queryEntry;
+        spotify.search({ type: 'track', query: song }, function(err, data) {
             
             if (err) {
               return console.log('Error occurred: ' + err);
@@ -35,9 +38,12 @@ var appFuncObj = {
                 var currentItem = items[i];
                 var artistNames = currentItem.album.artists;
 
-                console.log("Artist Name " + artistNames[0].name);
-                console.log("preview url " + currentItem.preview_url);
-                console.log("album name " + currentItem.album.name);
+                console.log(`Artist Name: ${artistNames[0].name}`);
+                console.log(`Song name: ${song}`);
+                console.log(`Preview url: ${currentItem.preview_url}`);
+                console.log(`Album name: ${currentItem.album.name}`);
+
+                console.log("*------------------------------------*\n")
 
             }
             
