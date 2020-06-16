@@ -1,6 +1,8 @@
 
 var axios = require("axios");
 
+var appFuncObj = require("./appFunction");
+
 require("dotenv").config();
 
 var keys = require("./keys");
@@ -33,42 +35,20 @@ var content = process.argv[3];
 content = ((content !== null) ? content.toLowerCase() : content);
 
 
+
 if(appFunc === "spotify-this-song"){
-    spotifyCall(content)
+    appFuncObj.spotifyCall(content)
 }
 else if (appFunc === "concert-this"){
-    concertThis(content);
+    appFuncObj.concertThis(content);
+}
+else if (appFunc === ""){
+    appFuncObj.movieThis(content);
+}
+else if (appFunc === "do-what-it-says"){
+    appFuncObj.doWhatItSays();
 }
 
-
-function spotifyCall(query){
-    spotify
-    .search({type: "track", query: "all the small things"})
-    .then(function(response){
-        console.log(response);
-    })
-    .catch(function(err){
-        console.log(err);
-    });
-}
-
-function movieThis(query){
-
-}
-
-function concertThis(query){
-    axios.get("https://rest.bandsintown.com/artists/" 
-        + query + "/events?app_id=codingbootcamp")
-        .then(function(response){
-            console.log(response);
-        })
-        .catch(function(err){
-            console.log(err);
-        })
-        .finally(function(){
-            console.log("finally");
-        })
-}
 
 
 
