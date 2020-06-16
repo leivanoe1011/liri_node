@@ -53,23 +53,39 @@ var appFuncObj = {
 
     movieThis: function(query){
 
-        var apiKey = "trilogy"
+        // var apiKey = "trilogy"
         var movieObj = query.split(" ");
         var movieName = "";
+        var ombdCall = "http://www.omdbapi.com/?apikey=1f081b4a&t=";
 
         for(var i = 0; i < movieObj.length; i++){
             movieName += movieObj[i] + "+";
         }
 
         // Remove the last plus sign
-        movieName = substring(0, movieName.length - 1);
+        movieName = movieName.substring(0, movieName.length - 1);
         
-        // http://img.omdbapi.com/?apikey=[yourkey]&s=query
+        ombdCall += movieName;
+
+        console.log(ombdCall);
 
         axios
-            .get("http://img.omdbapi.com/?apikey=" + apiKey + "&s=" + movieName)
+            .get(ombdCall)
             .then(function(response){
-                console.log(response);
+                
+                var data = response.data;
+
+                console.log(`Title: ${data.Title}`);
+                console.log(`Year: ${data.Year}`);
+                console.log(`Rated: ${data.Rated}`);
+                console.log(`Rotten Tomatoes Rating: ${data.Ratings[1].Value}`);
+                console.log(`Produced Country: ${data.Country}`);
+                console.log(`Language: ${data.Language}`);
+                console.log(`Plot of the Movie: ${data.Plot}`);
+                console.log(`Actors: ${data.Actors}`);
+
+                console.log("*------------------------------------*\n");
+                
             })
             .catch(function(err){
                 console.log(err);
