@@ -1,4 +1,6 @@
 
+var axios = require("axios");
+
 require("dotenv").config();
 
 var keys = require("./keys");
@@ -32,8 +34,12 @@ content = ((content !== null) ? content.toLowerCase() : content);
 
 
 if(appFunc === "spotify-this-song"){
-    spotifyCall(query)
+    spotifyCall(content)
 }
+else if (appFunc === "concert-this"){
+    concertThis(content);
+}
+
 
 function spotifyCall(query){
     spotify
@@ -44,6 +50,24 @@ function spotifyCall(query){
     .catch(function(err){
         console.log(err);
     });
+}
+
+function movieThis(query){
+
+}
+
+function concertThis(query){
+    axios.get("https://rest.bandsintown.com/artists/" 
+        + query + "/events?app_id=codingbootcamp")
+        .then(function(response){
+            console.log(response);
+        })
+        .catch(function(err){
+            console.log(err);
+        })
+        .finally(function(){
+            console.log("finally");
+        })
 }
 
 
