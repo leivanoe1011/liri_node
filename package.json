@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/leivanoe1011/liri_node/issues"
   },
-  "homepage": "https://github.com/leivanoe1011/liri_node#readme"
+  "homepage": "https://github.com/leivanoe1011/liri_node#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
