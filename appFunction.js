@@ -22,7 +22,6 @@ var returnCommand = "";
 var appFuncObj = {
 
 
-
     spotifyCall: function(queryEntry){
 
         // Pass the entry we received from the user
@@ -68,6 +67,7 @@ var appFuncObj = {
         // Remove the last plus sign
         movieName = movieName.substring(0, movieName.length - 1);
         
+        // append the Movie name to the API URL
         ombdCall += movieName;
 
         console.log(ombdCall);
@@ -124,7 +124,6 @@ var appFuncObj = {
 
 module.exports = appFuncObj;
 
-module.command = returnCommand;
 
 
 // doWhatItSays: function(){
