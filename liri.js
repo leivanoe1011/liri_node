@@ -6,24 +6,9 @@ var appFuncObj = require("./appFunction");
 var fs = require("fs");
 
 
-// * `concert-this`
-
-// * `spotify-this-song`
-
-// * `movie-this`
-
-// * `do-what-it-says`
-
-// bands in town
-//https://rest.bandsintown.com/artists/celine+dion/events?app_id=codingbootcamp
-
 var appFunc = ((typeof process.argv[2] === 'undefined') ? null : process.argv[2]);
 appFunc = ((appFunc !== null ) ? appFunc.toLowerCase() : appFunc );
 
-
-// Artist - Song
-// We can pass blank artist
-// We can pass blank song
 
 var content = ((typeof process.argv[3] === 'undefined') ? null : process.argv[3]);
 content = ((content !== null) ? content.toLowerCase() : content);
