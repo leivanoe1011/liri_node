@@ -1,6 +1,4 @@
 
-// Load File System Package
-var fs = require("fs");
 
 // Load Axios package
 var axios = require("axios");
@@ -17,8 +15,13 @@ var Spotify = require("node-spotify-api");
 // Instantiate spotify object
 var spotify = new Spotify(keys.spotify);
 
+
+var returnCommand = "";
+
 // Object used to export functions
 var appFuncObj = {
+
+
 
     spotifyCall: function(queryEntry){
 
@@ -115,22 +118,23 @@ var appFuncObj = {
             .finally(function(){
                 console.log("finally");
             })
-    },
-
-    doWhatItSays: function(){
-        fs.readFile("random.txt", "utf8", function(err, data){
-            if(err){
-                return console.log(err);
-            }
-
-            console.log(data);
-        })
     }
+    
 }
 
 module.exports = appFuncObj;
 
+module.command = returnCommand;
 
+
+// doWhatItSays: function(){
+//     fs.readFile("random.txt", "utf8", function(err, data){
+//         if(err){
+//             return console.log(err);
+//         }
+//         returnCommand = data;
+//     })
+// }
 
 
 
