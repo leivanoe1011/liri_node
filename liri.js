@@ -39,6 +39,9 @@ else if (appFunc === "movie-this"){
 else if (appFunc === "do-what-it-says"){
     appFuncObj.doWhatItSays();
 }
+else{
+    console.log("Not a correct function");
+}
 
 
 

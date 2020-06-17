@@ -93,17 +93,28 @@ var appFuncObj = {
     },
 
     concertThis: function(query){
-        axios.get("https://rest.bandsintown.com/artists/" 
-        + query + "/events?app_id=codingbootcamp")
-        .then(function(response){
-            console.log(response);
-        })
-        .catch(function(err){
-            console.log(err);
-        })
-        .finally(function(){
-            console.log("finally");
-        })
+        
+        axios
+            .get("https://rest.bandsintown.com/artists/" 
+                + query + "/events?app_id=codingbootcamp")
+            .then(function(response){
+                var data = response.data;
+                console.log(`Artist/Band Name: ${query.toUpperCase()}`);
+
+                for(var i = 0; i < data.length; i++){
+                    console.log(`Vanue Name: ${data[i].venue.name}`);
+                    console.log(`Vanue Location: ${data[i].venue.country}`);
+                    console.log(`Event Date: ${data[i].datetime}`);
+
+                    console.log("*------------------------------------*\n");
+                }
+            })
+            .catch(function(err){
+                console.log(err);
+            })
+            .finally(function(){
+                console.log("finally");
+            })
     },
 
     doWhatItSays: function(){
