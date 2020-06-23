@@ -51,7 +51,7 @@ var appFuncObj = {
 
             }
 
-            fs.writeFile("log.txt",printCommand, err =>{
+            fs.appendFile("log.txt",printCommand, err =>{
                 if(err){
                     return console.log(err);
                 }
@@ -103,7 +103,7 @@ var appFuncObj = {
 
                 console.log(printCommand);
 
-                fs.writeFile("log.txt",printCommand, err =>{
+                fs.appendFile("log.txt",printCommand, err =>{
                     if(err){
                         return console.log(err);
                     }
@@ -137,13 +137,13 @@ var appFuncObj = {
 
                 console.log(printCommand);
 
-                fs.writeFile("log.txt",printCommand, err =>{
+                fs.appendFile("log.txt",printCommand, err =>{
                     if(err){
                         return console.log(err);
                     }
                     console.log("The file saved!");
                 });
-                
+
             })
             .catch(function(err){
                 console.log(err);

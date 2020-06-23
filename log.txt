@@ -1,100 +1,139 @@
-Artist Name: T3R Elemento
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/3370a9f85fe7182f0ddbf2127197097724de5b44?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: The Green Trip
+Title: The Matrix
+Year: 1999
+Rated: R
+Rotten Tomatoes Rating: 88%
+Produced Country: USA
+Language: English
+Plot of the Movie: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
 *------------------------------------*
-Artist Name: Natalia Lafourcade
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/cf6ded8bcd94c1e85249e15364cea51fdf0a1393?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Un Canto por México, Vol. 1
+Title: Wedding Crashers
+Year: 2005
+Rated: R
+Rotten Tomatoes Rating: 75%
+Produced Country: USA
+Language: English
+Plot of the Movie: John Beckwith and Jeremy Grey, a pair of committed womanizers who sneak into weddings to take advantage of the romantic tinge in the air, find themselves at odds with one another when John meets and falls for Claire Cleary.
+Actors: Owen Wilson, Vince Vaughn, Christopher Walken, Rachel McAdams
 *------------------------------------*
-Artist Name: Yandel
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/ccfb59adeeb968606598017f7da3c17b3287f3c6?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: #Update
-*------------------------------------*
-Artist Name: Santa Fe Klan
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/18b8a46edca586216a15e4e434276d89f6ef8f19?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Bendecido
-*------------------------------------*
-Artist Name: Nil Moliner
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/9cce2bddc841a06c60bf0947895da397041ae121?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Bailando en la batalla
-*------------------------------------*
-Artist Name: Yolanda Del Rio
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/9d1a807d8128999abdaa4c1a105d8a72a30036fa?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Serie Platino
-*------------------------------------*
-Artist Name: Maná
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/438b175e28e7846eeaa46e38e6d57576868da2f8?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Revolución De Amor (2020 Remasterizado)
-*------------------------------------*
-Artist Name: Maná
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/560ab1bb6ff1f192a5aa2849a4d306ff31b2244b?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Revolución De Amor
-*------------------------------------*
-Artist Name: La Etnnia
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/24d9455536285475bf13dce4d18678b57b7b46f7?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: 10
-*------------------------------------*
-Artist Name: Pedro Capó
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/1a950687cd9d9d4c1e1c78cc00ec772f1e80e097?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Fuego Y Amor
-*------------------------------------*
-Artist Name: Belinda
-Song name: mi religion
+Artist Name: Dr. Dre
+Song name: xplosive
 Preview url: null
-Album name: Carpe Diem
+Album name: 2001
 *------------------------------------*
-Artist Name: Manix
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/5dd9a6e51acdbf1d3edbc7cc0cac2be6070615e4?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Mi Religión
+Artist Name: Bacao Rhythm & Steel Band
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/11529e96959557ae3833f1d2d620edd921a79f73?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: The Serpents Mouth
 *------------------------------------*
-Artist Name: Gustavo Pena El Príncipe
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/41c45756167e23d383dfdcb7957c0a46d1709209?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Lado A (Analógico) [Espíritu Inquieto]
+Artist Name: Dr. Dre
+Song name: xplosive
+Preview url: null
+Album name: 2001 Instrumental
 *------------------------------------*
-Artist Name: Maka
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/20220c95bd35c9ddab188f589af4f7ea37a7a1a2?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Raíces
+Artist Name: Nate Dogg
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/69bf104cf7b039dda1be7b0dc33aebc812fe155a?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: A Tribute to The King of G-Funk (Deluxe Version)
 *------------------------------------*
-Artist Name: Lali
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/81255c38fa6f1ae080861077f25e99eb4b6d4689?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Soy
+Artist Name: Dr. Dre
+Song name: xplosive
+Preview url: null
+Album name: 2001
 *------------------------------------*
-Artist Name: Hamlet
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/917562ea9aa1a514bbbc4dc25cf75a8d1906c572?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: La Ira
+Artist Name: OutKast
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/862e4ecba2ad04f099c4db6e21de1e8392ff9520?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Stankonia
 *------------------------------------*
-Artist Name: Javier Calamaro
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/3a763da0dc06ffb5a6a012ea1591af697e083584?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Kimika
+Artist Name: Vico C
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/610a766247e7be10b7761206193891fa1517e515?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Mis Favoritas
 *------------------------------------*
-Artist Name: Nil Moliner
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/fb862701eaf6dba0f22ee427ffb40303522b476c?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Mi Religión (En directo, Joy Eslava, Madrid)
+Artist Name: Machine Gun Kelly
+Song name: xplosive
+Preview url: null
+Album name: Half Naked & Almost Famous - EP
 *------------------------------------*
-Artist Name: Bad Religion
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/14295261424fd2a62a2870e850861f125825c024?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Against The Grain
+Artist Name: Machine Gun Kelly
+Song name: xplosive
+Preview url: null
+Album name: Half Naked & Almost Famous - EP
 *------------------------------------*
-Artist Name: Leonardo Favio
-Song name: mi religion
-Preview url: https://p.scdn.co/mp3-preview/9497ed0b22c415344f9344b7ed87213e23a75155?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Baladas De Amor
+Artist Name: Xplosive
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/463fcf321cd7eca66c7ea01f8e9b8351666420a6?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Xplode
+*------------------------------------*
+Artist Name: Xplosive
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/6cdd78c73300cf31478d77b2c2698a6270cf08eb?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Xplode
+*------------------------------------*
+Artist Name: Xplosive
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/07170e19485f85f970153748d724b96ddd779554?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Xplode
+*------------------------------------*
+Artist Name: Xplosive
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/d8075723fde848bf87880d2c0003e210a21bfbb8?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Xplode
+*------------------------------------*
+Artist Name: Xplosive
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/44f22c06297ed552d5b58c4cd6bcdf2748018257?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Galactic
+*------------------------------------*
+Artist Name: Spok Beats
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/e4757ff74c029aaa5bf9d2d08d23b747ac8c35d3?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Speaker People
+*------------------------------------*
+Artist Name: 2 Good to Go
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/3e73d050af59517a38155a275a7cb127a98808ea?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Jazz It Up
+*------------------------------------*
+Artist Name: Bob Serito
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/aa6f474073bee8f3652908ca45b31f12a45011be?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Eternety Music
+*------------------------------------*
+Artist Name: Various Artists
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/871bb987d38a2558b4d0c11164363d156192f5b1?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Euphoric Dance Music - Breakbeat
+*------------------------------------*
+Artist Name: Various Artists
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/03e2190e4a1ff14dbc61d2dc762c55d2f38934e0?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Club Strobe, Vol. 35
+*------------------------------------*
+Artist Name: Various Artists
+Song name: xplosive
+Preview url: https://p.scdn.co/mp3-preview/d3b0fe162583ea4029265ebf5de429166c1d513e?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Krayzie Bone and Big Hef present Cleveland Is The City, Ohio Is The State
+*------------------------------------*
+Artist/Band Name: MANA
+Vanue Name: Streaming LIVE
+Vanue Location: 
+Event Date: 2020-06-21T19:00:00
+*------------------------------------*
+Vanue Name: Mandalay Bay Events Center
+Vanue Location: United States
+Event Date: 2020-09-11T22:00:00
+*------------------------------------*
+Vanue Name: Mandalay Bay Events Center
+Vanue Location: United States
+Event Date: 2020-09-12T22:00:00
+*------------------------------------*
+Vanue Name: Mandalay Bay Events Center
+Vanue Location: United States
+Event Date: 2020-09-14T21:00:00
+*------------------------------------*
+Vanue Name: Autodromo Hermanos Rodriguez
+Vanue Location: Mexico
+Event Date: 2020-09-18T14:00:00
 *------------------------------------*
