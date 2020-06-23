@@ -1,4 +1,5 @@
 
+var fs = require("fs");
 
 // Load Axios package
 var axios = require("axios");
@@ -16,7 +17,7 @@ var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
 
 
-var returnCommand = "";
+var printCommand = "";
 
 // Object used to export functions
 var appFuncObj = {
@@ -40,23 +41,34 @@ var appFuncObj = {
                 var currentItem = items[i];
                 var artistNames = currentItem.album.artists;
 
-                console.log(`Artist Name: ${artistNames[0].name}`);
-                console.log(`Song name: ${song}`);
-                console.log(`Preview url: ${currentItem.preview_url}`);
-                console.log(`Album name: ${currentItem.album.name}`);
+                printCommand += `Artist Name: ${artistNames[0].name}\n`;
+                printCommand += `Song name: ${song}\n`;
+                printCommand += `Preview url: ${currentItem.preview_url}\n`;
+                printCommand += `Album name: ${currentItem.album.name}\n`;
+                printCommand += "*------------------------------------*\n";
 
-                console.log("*------------------------------------*\n")
+                console.log(printCommand);
 
             }
+
+            fs.writeFile("log.txt",printCommand, err =>{
+                if(err){
+                    return console.log(err);
+                }
+                console.log("The file saved!");
+            });
             
         });
+
+        
 
     },
 
     movieThis: function(query){
 
         // var apiKey = "trilogy"
-        var movieObj = query.split(" ");
+        var movie = ((query === null) ? "Mr Nobody" : query);
+        var movieObj = movie.split(" ");
         var movieName = "";
         var ombdCall = "http://www.omdbapi.com/?apikey=1f081b4a&t=";
 
@@ -78,16 +90,25 @@ var appFuncObj = {
                 
                 var data = response.data;
 
-                console.log(`Title: ${data.Title}`);
-                console.log(`Year: ${data.Year}`);
-                console.log(`Rated: ${data.Rated}`);
-                console.log(`Rotten Tomatoes Rating: ${data.Ratings[1].Value}`);
-                console.log(`Produced Country: ${data.Country}`);
-                console.log(`Language: ${data.Language}`);
-                console.log(`Plot of the Movie: ${data.Plot}`);
-                console.log(`Actors: ${data.Actors}`);
+                printCommand += `Title: ${data.Title}\n`;
+                printCommand += `Year: ${data.Year}\n`;
+                printCommand += `Rated: ${data.Rated}\n`;
+                printCommand += `Rotten Tomatoes Rating: ${data.Ratings[1].Value}\n`;
+                printCommand += `Produced Country: ${data.Country}\n`;
+                printCommand += `Language: ${data.Language}\n`;
+                printCommand += `Plot of the Movie: ${data.Plot}\n`;
+                printCommand += `Actors: ${data.Actors}\n`;
+                printCommand += "*------------------------------------*\n";
+   
 
-                console.log("*------------------------------------*\n");
+                console.log(printCommand);
+
+                fs.writeFile("log.txt",printCommand, err =>{
+                    if(err){
+                        return console.log(err);
+                    }
+                    console.log("The file saved!");
+                });
                 
             })
             .catch(function(err){
