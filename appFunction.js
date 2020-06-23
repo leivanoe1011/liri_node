@@ -123,15 +123,27 @@ var appFuncObj = {
                 + query + "/events?app_id=codingbootcamp")
             .then(function(response){
                 var data = response.data;
-                console.log(`Artist/Band Name: ${query.toUpperCase()}`);
+
+                printCommand += `Artist/Band Name: ${query.toUpperCase()}\n`;
 
                 for(var i = 0; i < data.length; i++){
-                    console.log(`Vanue Name: ${data[i].venue.name}`);
-                    console.log(`Vanue Location: ${data[i].venue.country}`);
-                    console.log(`Event Date: ${data[i].datetime}`);
+                    
+                    printCommand += `Vanue Name: ${data[i].venue.name}\n`;
+                    printCommand += `Vanue Location: ${data[i].venue.country}\n`;
+                    printCommand += `Event Date: ${data[i].datetime}\n`;
+                    printCommand += "*------------------------------------*\n";
 
-                    console.log("*------------------------------------*\n");
                 }
+
+                console.log(printCommand);
+
+                fs.writeFile("log.txt",printCommand, err =>{
+                    if(err){
+                        return console.log(err);
+                    }
+                    console.log("The file saved!");
+                });
+                
             })
             .catch(function(err){
                 console.log(err);
