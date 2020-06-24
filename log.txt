@@ -1,126 +1,4 @@
-Title: The Matrix
-Year: 1999
-Rated: R
-Rotten Tomatoes Rating: 88%
-Produced Country: USA
-Language: English
-Plot of the Movie: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
-Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
-*------------------------------------*
-Title: Wedding Crashers
-Year: 2005
-Rated: R
-Rotten Tomatoes Rating: 75%
-Produced Country: USA
-Language: English
-Plot of the Movie: John Beckwith and Jeremy Grey, a pair of committed womanizers who sneak into weddings to take advantage of the romantic tinge in the air, find themselves at odds with one another when John meets and falls for Claire Cleary.
-Actors: Owen Wilson, Vince Vaughn, Christopher Walken, Rachel McAdams
-*------------------------------------*
-Artist Name: Dr. Dre
-Song name: xplosive
-Preview url: null
-Album name: 2001
-*------------------------------------*
-Artist Name: Bacao Rhythm & Steel Band
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/11529e96959557ae3833f1d2d620edd921a79f73?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: The Serpents Mouth
-*------------------------------------*
-Artist Name: Dr. Dre
-Song name: xplosive
-Preview url: null
-Album name: 2001 Instrumental
-*------------------------------------*
-Artist Name: Nate Dogg
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/69bf104cf7b039dda1be7b0dc33aebc812fe155a?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: A Tribute to The King of G-Funk (Deluxe Version)
-*------------------------------------*
-Artist Name: Dr. Dre
-Song name: xplosive
-Preview url: null
-Album name: 2001
-*------------------------------------*
-Artist Name: OutKast
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/862e4ecba2ad04f099c4db6e21de1e8392ff9520?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Stankonia
-*------------------------------------*
-Artist Name: Vico C
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/610a766247e7be10b7761206193891fa1517e515?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Mis Favoritas
-*------------------------------------*
-Artist Name: Machine Gun Kelly
-Song name: xplosive
-Preview url: null
-Album name: Half Naked & Almost Famous - EP
-*------------------------------------*
-Artist Name: Machine Gun Kelly
-Song name: xplosive
-Preview url: null
-Album name: Half Naked & Almost Famous - EP
-*------------------------------------*
-Artist Name: Xplosive
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/463fcf321cd7eca66c7ea01f8e9b8351666420a6?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Xplode
-*------------------------------------*
-Artist Name: Xplosive
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/6cdd78c73300cf31478d77b2c2698a6270cf08eb?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Xplode
-*------------------------------------*
-Artist Name: Xplosive
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/07170e19485f85f970153748d724b96ddd779554?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Xplode
-*------------------------------------*
-Artist Name: Xplosive
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/d8075723fde848bf87880d2c0003e210a21bfbb8?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Xplode
-*------------------------------------*
-Artist Name: Xplosive
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/44f22c06297ed552d5b58c4cd6bcdf2748018257?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Galactic
-*------------------------------------*
-Artist Name: Spok Beats
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/e4757ff74c029aaa5bf9d2d08d23b747ac8c35d3?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Speaker People
-*------------------------------------*
-Artist Name: 2 Good to Go
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/3e73d050af59517a38155a275a7cb127a98808ea?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Jazz It Up
-*------------------------------------*
-Artist Name: Bob Serito
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/aa6f474073bee8f3652908ca45b31f12a45011be?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Eternety Music
-*------------------------------------*
-Artist Name: Various Artists
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/871bb987d38a2558b4d0c11164363d156192f5b1?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Euphoric Dance Music - Breakbeat
-*------------------------------------*
-Artist Name: Various Artists
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/03e2190e4a1ff14dbc61d2dc762c55d2f38934e0?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Club Strobe, Vol. 35
-*------------------------------------*
-Artist Name: Various Artists
-Song name: xplosive
-Preview url: https://p.scdn.co/mp3-preview/d3b0fe162583ea4029265ebf5de429166c1d513e?cid=e1f55ec4debe4ca1a5d2334bff188909
-Album name: Krayzie Bone and Big Hef present Cleveland Is The City, Ohio Is The State
-*------------------------------------*
 Artist/Band Name: MANA
-Vanue Name: Streaming LIVE
-Vanue Location: 
-Event Date: 2020-06-21T19:00:00
-*------------------------------------*
 Vanue Name: Mandalay Bay Events Center
 Vanue Location: United States
 Event Date: 2020-09-11T22:00:00
@@ -136,4 +14,213 @@ Event Date: 2020-09-14T21:00:00
 Vanue Name: Autodromo Hermanos Rodriguez
 Vanue Location: Mexico
 Event Date: 2020-09-18T14:00:00
+*------------------------------------*
+Artist Name: Calvin Harris
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/7747e4abf05e790168b4aeb87de9c008095677a9?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Motion
+*------------------------------------*
+Artist Name: Lennon Stella
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/7bdb0598f79b287feb838f266b8f9be1cae85f23?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Summer Feelings (feat. Charlie Puth)
+*------------------------------------*
+Artist Name: Bryan Adams
+Song name: summer
+Preview url: null
+Album name: Reckless (30th Anniversary / Deluxe Edition)
+*------------------------------------*
+Artist Name: Jaden
+Song name: summer
+Preview url: null
+Album name: ERYS (Deluxe)
+*------------------------------------*
+Artist Name: Martin Garrix
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/2c529a40d846a04151fed237da99736e1a372e1c?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+*------------------------------------*
+Artist Name: BROCKHAMPTON
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/68b7d89d66636b801a0f32db21d425bd9de315c0?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: SATURATION II
+*------------------------------------*
+Artist Name: PRETTYMUCH
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/e9d2955456a580f1ed327c1f1263ff68fd2c00ed?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Summer on You
+*------------------------------------*
+Artist Name: girl in red
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/6c310bcf55d0998d4ae21fe21f8f873461b3ce65?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: summer depression
+*------------------------------------*
+Artist Name: Childish Gambino
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/54b992f72944542c137df6bbb1080f6f76c9df67?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Summer Pack
+*------------------------------------*
+Artist Name: Cuco
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/07d2edd73609c6efead6cc8d80e5a97edf31ea3d?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Chiquito
+*------------------------------------*
+Artist Name: Lana Del Rey
+Song name: summer
+Preview url: null
+Album name: Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)
+*------------------------------------*
+Artist Name: Seals and Crofts
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/5c64316cf5c7bbf26a47987810b864723be6a02d?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Seals & Crofts' Greatest Hits
+*------------------------------------*
+Artist Name: Lana Del Rey
+Song name: summer
+Preview url: null
+Album name: Born To Die - The Paradise Edition
+*------------------------------------*
+Artist Name: Iration
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/b1fe1c592f2c18964e2d19f9d516e9ce47f24b99?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Summer Nights
+*------------------------------------*
+Artist Name: Kenny Chesney
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/821a56bbf9010ab683b1e69e8faf6795c8ee56bd?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: The Road And The Radio
+*------------------------------------*
+Artist Name: Chelsea Cutler
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/4e7bf052d8292d786ed50ac57ff03ed623601d49?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Spotify Singles
+*------------------------------------*
+Artist Name: Various Artists
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/7bdb0598f79b287feb838f266b8f9be1cae85f23?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: SCOOB! The Album
+*------------------------------------*
+Artist Name: Various Artists
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/243d7e47b01d362ede6b34de282b527e9be0fc62?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Rain
+*------------------------------------*
+Artist Name: Kota the Friend
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/d8bfd979f92a47dbad548d4766729918c820f346?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: EVERYTHING
+*------------------------------------*
+Artist Name: Lil Rob
+Song name: summer
+Preview url: https://p.scdn.co/mp3-preview/ad10218312b074f7b62c0bee85122a7a44a85bba?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Twelve Eighteen (Part I)
+*------------------------------------*
+Title: The Matrix
+Year: 1999
+Rated: R
+Rotten Tomatoes Rating: 88%
+Produced Country: USA
+Language: English
+Plot of the Movie: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+*------------------------------------*
+Artist Name: Backstreet Boys
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Millennium
+*------------------------------------*
+Artist Name: Mick Jensen
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: I Want It That Way
+*------------------------------------*
+Artist Name: Anthem Lights
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Covers Part IV
+*------------------------------------*
+Artist Name: Tyler and Mark
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Beautiful Dreams
+*------------------------------------*
+Artist Name: Punk Goes
+Song name: I Want it That Way
+Preview url: null
+Album name: Punk Goes Pop
+*------------------------------------*
+Artist Name: Steel Panther
+Song name: I Want it That Way
+Preview url: null
+Album name: I Want It That Way
+*------------------------------------*
+Artist Name: Various Artists
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: 90 Sweet 90s Hits!
+*------------------------------------*
+Artist Name: Clay K Slider
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/99a7272b4345350e40cfa6f313ee59e732ecfda3?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: KK Slider Covers 2
+*------------------------------------*
+Artist Name: Scary Pockets
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Nu Funk
+*------------------------------------*
+Artist Name: Manuel Costa
+Song name: I Want it That Way
+Preview url: null
+Album name: I Want It That Way (The Remixes)
+*------------------------------------*
+Artist Name: Rachael Nemiroff
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/ff1336fd0e6f452061bbd4a3010309e7d106f004?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: I Want It That Way
+*------------------------------------*
+Artist Name: Jess and Gabriel
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Under the Covers, Vol. 3
+*------------------------------------*
+Artist Name: Backstreet Boys
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: I Want It That Way (Reimagined)
+*------------------------------------*
+Artist Name: Ryan Tenner
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/9c9217848c811676226a09cf721f27f102588521?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Pop Piano Covers
+*------------------------------------*
+Artist Name: Boyce Avenue
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Cover Sessions, Vol. 2
+*------------------------------------*
+Artist Name: Zita
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/2ce29a5a3beb747bb223e2f48c6b9139ff46f8fd?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: I Want It That Way
+*------------------------------------*
+Artist Name: Various Artists
+Song name: I Want it That Way
+Preview url: null
+Album name: Work From Home Hustle
+*------------------------------------*
+Artist Name: Original London Cast of & Juliet
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/6df704bcaee02f82fefacbfaaca2ab8858119947?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: & Juliet (Original London Cast Recording)
+*------------------------------------*
+Artist Name: Anthem Lights
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/82b2ff786fedce4e1a314d69f15ff5c705049ef5?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: I Want It That Way / Bye Bye Bye
+*------------------------------------*
+Artist Name: Scott Bradlee's Postmodern Jukebox
+Song name: I Want it That Way
+Preview url: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=e1f55ec4debe4ca1a5d2334bff188909
+Album name: Selfies on Kodachrome
 *------------------------------------*

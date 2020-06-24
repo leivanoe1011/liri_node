@@ -51,6 +51,7 @@ var appFuncObj = {
 
             }
 
+            // Append the Command into the Log Txt file
             fs.appendFile("log.txt",printCommand, err =>{
                 if(err){
                     return console.log(err);

@@ -37,6 +37,7 @@ function appCall(appFunc, content){
                 appFunc = splitData[0].replace('"',"");
                 content = splitData[1].replace('"',"");
 
+                // Recursion
                 appCall(appFunc, content);
             })
 
